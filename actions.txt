@@ -1,0 +1,15 @@
+//STATE --TAB-- WAITING TIME --TAB-- {possible action1 --TAB-- action1 cost --TAB-- possible action2 --TAB-- action2 cost --TAB-- ect...}
+Hollywood Rip Ride Rockit	60	Despicable Me Minion Mayhem	4.8	Race Through New York Starring Jimmy Fallon	18.2
+Despicable Me Minion Mayhem	45	Hollywood Rip Ride Rockit	4.8	Race Through New York Starring Jimmy Fallon	17.7	Shrek 4-D	7.9	TRANSFORMERS: The Ride 3D	16.1
+Race Through New York Starring Jimmy Fallon	0	Hollywood Rip Ride Rockit	18.1	Despicable Me Minion Mayhem	17.7	Shrek 4-D	19.4	TRANSFORMERS: The Ride 3D	17.4	Revenge of the Mummy	18.6
+Shrek 4-D	75	Despicable Me Minion Mayhem	7.9	Race Through New York Starring Jimmy Fallon	19.4	TRANSFORMERS: The Ride 3D	10.4	E.T Adventure	31.5
+TRANSFORMERS: The Ride 3D	30	Shrek 4-D	10.4	E.T Adventure	28.8	Despicable Me Minion Mayhem	16.1	Race Through New York Starring Jimmy Fallon	17.4	Revenge of the Mummy	21.5	Fast & Furious - Supercharged	25.5	Kang & Kodo's Twirl n hurl	43.1
+Revenge of the Mummy	25	Race Through New York Starring Jimmy Fallon	18.6	TRANSFORMERS: The Ride 3D	21.5	Fast & Furious - Supercharged	16.1
+Fast & Furious - Supercharged	40	TRANSFORMERS: The Ride 3D	25.5	Revenge of the Mummy	16.1	Hogwarts Express - King's Cross Station	17.5
+E.T Adventure	25	Shrek 4-D	31.4	TRANSFORMERS: The Ride 3D	28.8	Kang & Kodo's Twirl n hurl	30.2	The Simpsons Ride	29.8	Woody Woodpecker's Nuthouse Coaster	13.6
+Woody Woodpecker's Nuthouse Coaster	20	E.T Adventure	13.6	Kang & Kodo's Twirl n hurl	26.6	The Simpsons Ride	24.2
+Hogwarts Express - King's Cross Station	50	Fast & Furious - Supercharged	17.5	Harry Potter and the Escape from Gringotts	17.9	MEN IN BLACK Alien Attack	31.5
+Kang & Kodo's Twirl n hurl	40	TRANSFORMERS: The Ride 3D	43.1	E.T Adventure	30.2	Woody Woodpecker's Nuthouse Coaster	26.6	The Simpsons Ride	5.3	MEN IN BLACK Alien Attack	23.1
+The Simpsons Ride	40	Woody Woodpecker's Nuthouse Coaster	24.2	E.T Adventure	29.8	Kang & Kodo's Twirl n hurl	5.3	MEN IN BLACK Alien Attack	20.8
+Harry Potter and the Escape from Gringotts	60	Hogwarts Express - King's Cross Station	18.0	MEN IN BLACK Alien Attack	32.4
+MEN IN BLACK Alien Attack	15	Hogwarts Express - King's Cross Station	31.5	Harry Potter and the Escape from Gringotts	32.4	Kang & Kodo's Twirl n hurl	23.1	The Simpsons Ride	20.8
